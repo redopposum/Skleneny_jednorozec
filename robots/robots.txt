@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /login/
+Disallow: /user/
+Disallow: /api/
+Disallow: /tmp/
+Disallow: /cache/
+Disallow: /private/
+Disallow: /includes/
+
+Allow: /
+
+Sitemap: https://www.sklenenyjednorozec.cz/sitemap.xml
+
+
